@@ -17,7 +17,7 @@ This is a dynamic frontend application built with HTML, CSS, JavaScript and Reac
 - CSS3 (Flexbox)
 - JavaScript (ES6+)
 - React
-- 
+
 ## Getting Started
 To run this project locally, follow these steps.
 
